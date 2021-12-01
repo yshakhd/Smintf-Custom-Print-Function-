@@ -1,0 +1,10 @@
+%x
+%%%
+I have 100 gecs
+I have 0x64 gecs
+give me $2.00
+2% of 4 is 4% of 2
+My net worth now is $21474836.47
+My weight is -2147483648
+I will c u l8r
+My name is Bob
